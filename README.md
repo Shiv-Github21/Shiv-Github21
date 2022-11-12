@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shivendra Dubey
 - 👀 I’m interested in contributing to open source
-- 🌱 I’m currently learning how to contribute
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning how to contribute. 
 - 📫 How to reach me - shivendrad405@gmail.com
 
 <!---
