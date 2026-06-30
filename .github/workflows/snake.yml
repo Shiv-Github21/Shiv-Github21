@@ -23,13 +23,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Push generated files
+      - name: Push to output branch
         uses: EndBug/add-and-commit@v9
         with:
-          default_branch: main
-          message: 'Generate Contribution Snake Animation'
+          default_branch: output
+          branch: output
+          message: 'Generate Contribution Snake'
           add: 'dist'
           pull_strategy: 'NO-PULL'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
