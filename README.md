@@ -125,23 +125,6 @@ I'm a final-year B.Tech Computer Science student passionate about **DevOps, clou
 
 ---
 
-## 🎯 Current Focus
-
-```
-┌─────────────────────────────────────────────────────┐
-│ 🔨 ACTIVELY BUILDING                                │
-├─────────────────────────────────────────────────────┤
-│ ✓ Cloud-native DevOps automation solutions         │
-│ ✓ LLM-powered infrastructure management tools      │
-│ ✓ Scalable Kubernetes orchestration architectures  │
-│ ✓ Production-grade CI/CD pipelines                 │
-│ ✓ Event-driven microservices with Kafka           │
-│ ✓ Infrastructure as Code (Terraform + Ansible)   │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
 ## 📈 Professional Background
 
 - 🎓 **Education:** B.Tech Computer Science & Engineering | KIIT University, Bhubaneswar (2026)
