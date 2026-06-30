@@ -94,9 +94,9 @@ I'm a final-year B.Tech Computer Science student passionate about **DevOps, clou
 ## 🐍 GitHub Contribution Animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shiv-Github21/Shiv-Github21/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shiv-Github21/Shiv-Github21/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shiv-Github21/Shiv-Github21/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shiv-Github21/Shiv-Github21/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shiv-Github21/Shiv-Github21/main/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shiv-Github21/Shiv-Github21/main/dist/github-contribution-grid-snake.svg">
 </picture>
 
 ---
